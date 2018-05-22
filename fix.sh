@@ -1,3 +1,7 @@
+# only run this if you need to update 
+# the article.html and section-home.html 
+# files across all folders in articles folder
+
 rm -rf articles/nutrition/section-home.html
 rm -rf articles/nutrition/article1.html
 rm -rf articles/nutrition/article2.html
